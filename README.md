@@ -43,4 +43,3 @@ python hangman_game.py
 ## 👩‍💻 Author
 
 Developed as a Python Programmer #codealpha internship
-
